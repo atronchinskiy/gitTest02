@@ -1,1 +1,2 @@
 finish
+отдельные записи для new_branch
